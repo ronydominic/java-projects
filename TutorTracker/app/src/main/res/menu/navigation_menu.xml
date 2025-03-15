@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_add_schedule"
+        android:title="Add Schedule" />
+    <item
+        android:id="@+id/nav_view_appointments"
+        android:title="View Appointments" />
+    <item
+        android:id="@+id/nav_broadcast_messages"
+        android:title="Broadcast Messages" />
+</menu>
